@@ -1,0 +1,2 @@
+[1021/234057.585:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1023/212330.917:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost

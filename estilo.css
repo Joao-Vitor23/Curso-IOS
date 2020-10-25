@@ -1,0 +1,21 @@
+@charset "utf-8"; 
+
+h1 {
+    font-size: 50;
+    font-family: fantasy; height: 100; 
+    text-align: center;
+    background-color: #edc4b3;
+}
+
+body {
+
+    background-color: #b07d62;
+
+}
+
+p {
+
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 22;
+}
